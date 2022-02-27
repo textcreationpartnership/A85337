@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The golden fleece defended; or Reasons against the Company of Merchant Adventurers; humbly offered to the consideration of the Honourable House of Commons.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85337</idno>
+            <idno type="STC">Wing G1016</idno>
+            <idno type="STC">Thomason E381_5</idno>
+            <idno type="STC">ESTC R201408</idno>
+            <idno type="EEBO-CITATION">99861922</idno>
+            <idno type="PROQUEST">99861922</idno>
+            <idno type="VID">160163</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85337)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160163)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E381[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The golden fleece defended; or Reasons against the Company of Merchant Adventurers; humbly offered to the consideration of the Honourable House of Commons.</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Signatures: A².</note>
+                  <note>Annotation on Thomason copy: "March 19. 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Company of Merchant Adventurers of England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:160163:1" rendition="simple:additions"/>
+            <head>The GOLDEN FLEECE <hi>Defended; OR</hi> Reaſons againſt the <hi>Company</hi> of <hi>Merchant Adventurers;</hi> Humbly offered to the conſideration of the <hi>Honourable</hi> HOVSE of COMMONS.</head>
+            <p n="1">1. IT taketh away the NATIVE LIBERTY of <hi>every man;</hi> in the <hi>principal commodity</hi> of the NATION: It being the <hi>birthright</hi> of <hi>every man</hi> to be <hi>alike free</hi> to tranſport, that, or any o<g ref="char:EOLhyphen"/>ther Comodity, into what parts beyond the ſeas ſeemeth moſt advantagious unto him.</p>
+            <p n="2">2. It abridgeth the FREEDOME, of <hi>every</hi> FREEMAN of the CITY of LONDON, <hi>every Freeman</hi> by the <hi>Charter</hi> of the <hi>City</hi> being free to tranſport, or import any Commodity, not prohibited by Law.</p>
+            <p n="3">3. It tendeth to the diſcouragement of CLOTHIERS, whoſe markets and ſale of their clothes, are reſtrained to a <hi>few Mer<g ref="char:EOLhyphen"/>chants,</hi> (in compariſon of what they would be if <hi>trade</hi> were <hi>free</hi>) and who, by their orders, and times of <hi>ſhipping</hi> (ſhipping together in one or two ſhips) have power to uſe the <hi>Clothiers</hi> (eſpecially the <hi>younger,</hi> and <hi>inferiour traders</hi>) how they pleaſe to worke them into neceſſities, and ſo to what rates and con<g ref="char:EOLhyphen"/>ditions they will, and in concluſion, quite weary them out of all <hi>trade.</hi>
+            </p>
+            <p n="4">4. It tendeth to the diſcouragement, and <hi>impoveriſhing</hi> of all WEAVERS, CLOTHIERS and DYERS, in that the oppreſſions, and neceſſities of the <hi>Clothier,</hi> fall upon the <hi>Weavers, Cloth-workers,</hi> and all whom they imploy: alſo the <hi>Mercharts</hi> being but <hi>few,</hi> employ <hi>few workemen,</hi> and uſe ſuch as they doe employ at their pleaſure; and wherein alſo the <hi>Wool-maſters</hi> are not a little concerned.</p>
+            <p n="5">5. It tendeth to the abatement of <hi>Merchants:</hi>
+               <list>
+                  <item>(1) becauſe they take but few <hi>Apprentices:</hi>
+                  </item>
+                  <item>(2) becauſe they take ſuch onely, whoſe friends give <hi>great ſummes</hi> of <hi>money</hi> with them; and are provided of great ſtocks, who having ſerved their times, more like unto <hi>Gentlemen</hi> then according to the <hi>anci<g ref="char:EOLhyphen"/>ent, provident, diſcipline</hi> of <hi>Apprentices</hi> of <hi>London,</hi> finding the
+<pb facs="tcp:160163:2"/>Companies Orders to be ſcanty in allowances of trade to <hi>young men,</hi> and their freedome in reſpect of <hi>Oathes,</hi> and <hi>Stints,</hi> and <hi>Brokes,</hi> to be indeed but as a bondage, many of them en<g ref="char:EOLhyphen"/>gage not at all in <hi>trade,</hi> but live upon <hi>uſury,</hi> or ſpend their times in unproſitable wayes.</item>
+               </list>
+            </p>
+            <p n="6">6. It keepeth downe and oppreſſeth the <hi>inferior Members</hi> of the <hi>Corporation:</hi>
+               <list>
+                  <item>(1) Becauſe the <hi>old,</hi> and <hi>great traders,</hi> are allowed the <hi>largiſts Stints,</hi> or to tranſport the <hi>greater number of clothes,</hi> whereby they have the <hi>greater command</hi> over the <hi>Clothier,</hi> and <hi>all workmen.</hi>
+                  </item>
+                  <item>(2) Becauſe a great part of the <hi>trade</hi> is driven by <hi>cloth</hi> of <hi>knowne marks</hi> much deſired beyond the <hi>ſeas;</hi> all which the <hi>great traders</hi> get into their hands, and will ſell them ſome<g ref="char:EOLhyphen"/>times for <hi>loſſe</hi> rather then an <hi>inferior trader</hi> ſhall ſell them to profit, if at any time he get them, which is almoſt a thing im<g ref="char:EOLhyphen"/>poſſible.</item>
+                  <item>(3) The <hi>inferior trader</hi> with his <hi>ſmall portion,</hi> meane<g ref="char:EOLhyphen"/>ly qualified, is nevertheleſſe conſtrained to pay the <hi>ſame im<g ref="char:EOLhyphen"/>poſitions</hi> to the <hi>Company,</hi> the <hi>ſame Cuſtome</hi> to the <hi>State,</hi> to <hi>ſhip</hi> when the <hi>great traders ſhippeth;</hi> to <hi>ſtay</hi> untill the <hi>great traders great quantities are up;</hi> if he happen to be the laſt (as having need to lengthen out the time upon which he buy<g ref="char:EOLhyphen"/>eth moſt of his goods) he is many times ſhut out, and then no remedy till next ſhipping without incurring great <hi>brokes.</hi>
+                  </item>
+                  <item>(4) When his <hi>ſmall parcell</hi> is come to the <hi>Mart townes,</hi> he muſt ſhew his goods, only when the <hi>great ones</hi> ſhew theirs; if they cannot give the <hi>ſame time</hi> upon <hi>ſale,</hi> or at the <hi>ſame rates</hi> (though they have little choiſe of known ware to invite) their goods will be blowne upon, and their <hi>time</hi> will eat them out; if they doe ſell at the <hi>ſame rate</hi> of profit <hi>per cent.</hi> they ſell ſo little, that it amounts to <hi>nothing;</hi> whilſt the other ſells <hi>ſo much, ſo ſpeedily,</hi> hath <hi>ſo much command of moneyes</hi> at <hi>low rates (Chamber Money)</hi> that at <hi>low profit per cent.</hi> in a <hi>ſhort time</hi> he gets to an <hi>Aldermans eſtate,</hi> whilſt the others are worne to <hi>nothing;</hi> and yet upon a pretence, both of <hi>profit</hi> and <hi>honour,</hi> he muſt not carry his <hi>goods</hi> from the <hi>Mart towne,</hi> though indeed it be as bad in point of <hi>honour,</hi> whether the <hi>Engliſh Nation,</hi> or the <hi>ſtaple commodity, Engliſh cloth,</hi> or <hi>Engliſh Merchants</hi> be conſidered, there being not more <hi>pelting,</hi> and <hi>abject fawning in Birching
+<pb facs="tcp:160163:2"/>Lane</hi> after <hi>Cuſtomers,</hi> then is commonly uſed by <hi>Merchants</hi> in humoring their <hi>buyers,</hi> and <hi>grocers</hi> in <hi>Roterdam;</hi> and nothing but <hi>ſnarling,</hi> and <hi>backbiting, circumvention, partiality</hi> and <hi>in<g ref="char:EOLhyphen"/>juſtice,</hi> to be found in their judiciall proceedings, either <hi>there,</hi> at <hi>Hamborow,</hi> or <hi>London:</hi> By all which it followeth, the <hi>Com<g ref="char:EOLhyphen"/>pany</hi> tendeth to make <hi>ſome few men extreame rich,</hi> to breed <hi>prodi<g ref="char:EOLhyphen"/>gall ſervants,</hi> leading a <hi>dance</hi> of <hi>pride</hi> and <hi>prodigality,</hi> to all o<g ref="char:EOLhyphen"/>ther <hi>tradeſmens ſervants,</hi> as their <hi>Maſters</hi> do unto other <hi>tradeſ<g ref="char:EOLhyphen"/>men,</hi> ſtriving who ſhall exceede in <hi>faſhions, diet, houſing,</hi> and <hi>houſholdſtuffe,</hi> in ſo much as a common <hi>Citizen</hi> is (in theſe times) more like a <hi>Noble man</hi> or <hi>Gentleman,</hi> and the <hi>ancient moderation</hi> of the <hi>City</hi> quite loſt, whereas were <hi>trade free</hi> there would be in lieu of theſe <hi>few rich men,</hi> a multitude of <hi>plaineable traders,</hi> that upon <hi>publicke occaſions of State,</hi> would from a <hi>plen<g ref="char:EOLhyphen"/>tifull hand</hi> fill the <hi>publike treaſury,</hi> and that <hi>freely</hi> too, their in<g ref="char:EOLhyphen"/>tereſt being <hi>common freedome,</hi> ſubſiſting by the <hi>lawfull protection</hi> of the <hi>Commons of England;</hi> whilft the others, out of their <hi>great eſtates,</hi> disburſe <hi>ſparingly, diſputingly,</hi> if not <hi>grumblingly:</hi> And no marvell, for their intereſt is <hi>Prerogative,</hi> ſubſiſting by <hi>Arbitrary</hi> and <hi>purchaſed grants,</hi> not by <hi>lawfull authority,</hi> which is eaſily diſcerned by their <hi>fines,</hi> for when by their <hi>wealth,</hi> and the <hi>folly</hi> of the <hi>chooſers,</hi> they are any of them, put into any <hi>Of<g ref="char:EOLhyphen"/>fice</hi> of <hi>truſt,</hi> or <hi>Magiſtracy,</hi> they ever favour thoſe that adhere all to <hi>Arbitrary Government,</hi> and diſcourage and diſcountenance ſuch as adhere to <hi>common freedome,</hi> and equall <hi>Government;</hi> and (if throughly ſought into) this will be found the <hi>principall ſpring</hi> &amp; <hi>Originall</hi> of the late <hi>Rmoneſtrance,</hi> called by ſome <hi>The Cities Remonſtrance;</hi> and of the <hi>perverſe diſputing ſpirit</hi> that hath lately appeared towards the <hi>Houſe of Commons;</hi> ſuch a <hi>chain of miſchiefes</hi> neceſſarily depend upon this <hi>one evill</hi> in <hi>trade.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="7">7. It tendeth to the <hi>deſhonour of God,</hi> and the <hi>wounding of conſci<g ref="char:EOLhyphen"/>ence</hi> by the <hi>commonneſſe</hi> of <hi>unreaſonable Oathes,</hi> and the too too lamentable and frequent breach of them.</p>
+            <p n="8">8. It tendeth to the <hi>deſtruction of Clothing</hi> in this <hi>Nation,</hi>
+               <list>
+                  <item>(1) Be<g ref="char:EOLhyphen"/>cauſe through the diſcouragements aforeſaid, many <hi>Clothi<g ref="char:EOLhyphen"/>ers</hi> and other <hi>workmen</hi> have forſaken the <hi>Land,</hi> and ſet up <hi>Cloth-making</hi> in divers parts beyond the <hi>ſeas.</hi>
+                  </item>
+                  <item>(2) Becauſe the trade of <hi>cloth</hi> being confined to one or two <hi>Mart townes</hi> onely, and
+<pb facs="tcp:160163:3"/>not diſperſt into every <hi>haven</hi> and <hi>creeke</hi> (as it would be were it free) there is an <hi>un<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ſerved liberty</hi> taken to bring into the <hi>Ne<g ref="char:EOLhyphen"/>therlands great quantities</hi> of our <hi>Engliſh wools,</hi> and <hi>Fullers earth;</hi> the <hi>great Merchants</hi> in their <hi>Mart townes</hi> nothing at all re<g ref="char:EOLhyphen"/>garding it, whereby <hi>cloth</hi> in theſe times, and of late is made in <hi>abundance,</hi> and if not well looked unto, in time, will utterly ex<g ref="char:EOLhyphen"/>hauſt the <hi>woollen,</hi> or <hi>clothing trade</hi> quite from us; and it will ne<g ref="char:EOLhyphen"/>be ſo well looked unto, by any <hi>Law</hi> or <hi>proviſion,</hi> as by the diſ<g ref="char:EOLhyphen"/>perſing of the <hi>Trade</hi> into <hi>every place</hi> (which <hi>freedome</hi> will occa<g ref="char:EOLhyphen"/>ſion) where every <hi>trader</hi> for his own <hi>profit,</hi> and <hi>livelihood,</hi> will be neceſſitated to looke to it, and by all meanes to reſtraine it.</item>
+               </list>
+            </p>
+            <p n="9">9. It tendeth to the <hi>diſcouragement</hi> of <hi>Seamen.</hi>
+               <list>
+                  <item>(1) By reſtrai<g ref="char:EOLhyphen"/>ning them from dealing in any <hi>woollen commodities</hi> for their owne accounts though never ſo little.</item>
+                  <item>(2) In that they make very <hi>few voyages in the yeare,</hi> and make uſe of none but ſuch as will ſubmit to their <hi>Orders.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="10">10. It tendeth to the <hi>vexation of moſt of the good Townes beyond the ſeas,</hi> and <hi>to alienate their hearts from the Engliſh,</hi> taking <hi>great offence and ſcorne,</hi> that for the <hi>Engliſh cloth</hi> they muſt be com<g ref="char:EOLhyphen"/>pelled to fetch what they uſe, onely from one <hi>Towne</hi> in their owne <hi>Country,</hi> at <hi>great charge</hi> and <hi>trouble,</hi> which otherwiſe would be brought home to them, and every <hi>towne might</hi> have an <hi>equall ſhare</hi> of the <hi>benefit</hi> of the <hi>entertainment</hi> and <hi>expences</hi> of <hi>Engliſh Merchants.</hi> And for this cauſe alſo, they chuſe to make uſe of the <hi>cloth</hi> that is made in their <hi>own Country,</hi> rather then to ſubmit to ſuch inconveniences.</p>
+            <p n="11">11. <hi>It much alienateth the hearts of a numerous people, both in Cities and all Countries from the</hi> PARLIAMENT, being much grieved that their <hi>knowne liberties of trade</hi> wherein they are ſo <hi>univer<g ref="char:EOLhyphen"/>ſally concerned,</hi> ſhould from time to time be bought and ſold for money, and that they could never yet obtaine a compleat remedy therein, though often and earneſtly Petitioned for; whereas were this <hi>trade</hi> once ſet abſolutely <hi>free,</hi> the joy of the people in generall, both <hi>Sea-men</hi> and <hi>Land-men,</hi> would be ex<g ref="char:EOLhyphen"/>ceſſive, and their thankfulneſſe ſo great that they would think nothing too precious to be ſpent in defence of that <hi>authority</hi> that ſhould ſhew ſo much regard unto their <hi>welfare</hi> and <hi>hap<g ref="char:EOLhyphen"/>pineſſe.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
